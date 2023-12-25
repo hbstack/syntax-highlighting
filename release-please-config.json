@@ -1,0 +1,202 @@
+{
+    "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+    "monorepo-tags": true,
+    "release-type": "go",
+    "tag-separator": "/",
+    "changelog-sections": [
+        { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
+        { "type": "ci", "section": "Continuous Integration" },
+        { "type": "docs", "section": "Documentation 📝" },
+        { "type": "feat", "section": "Features ✨" },
+        { "type": "feature", "section": "Features ✨" },
+        { "type": "fix", "section": "Bug Fixes 🐞" },
+        { "type": "perf", "section": "Performance Improvements ⚡️" },
+        { "type": "style", "section": "Styles 🎨" }
+    ],
+    "packages": {
+        ".": {
+            "exclude-paths": [
+            ]
+        },
+        "styles/abap": {
+            "component": "styles/abap"
+        },
+        "styles/algol-nu": {
+            "component": "styles/algol-nu"
+        },
+        "styles/algol": {
+            "component": "styles/algol"
+        },
+        "styles/arduino": {
+            "component": "styles/arduino"
+        },
+        "styles/autumn": {
+            "component": "styles/autumn"
+        },
+        "styles/average": {
+            "component": "styles/average"
+        },
+        "styles/base16-snazzy": {
+            "component": "styles/base16-snazzy"
+        },
+        "styles/borland": {
+            "component": "styles/borland"
+        },
+        "styles/bw": {
+            "component": "styles/bw"
+        },
+        "styles/catppuccin-frappe": {
+            "component": "styles/catppuccin-frappe"
+        },
+        "styles/catppuccin-latte": {
+            "component": "styles/catppuccin-latte"
+        },
+        "styles/catppuccin-macchiato": {
+            "component": "styles/catppuccin-macchiato"
+        },
+        "styles/catppuccin-mocha": {
+            "component": "styles/catppuccin-mocha"
+        },
+        "styles/colorful": {
+            "component": "styles/colorful"
+        },
+        "styles/doom-one": {
+            "component": "styles/doom-one"
+        },
+        "styles/doom-one2": {
+            "component": "styles/doom-one2"
+        },
+        "styles/dracula": {
+            "component": "styles/dracula"
+        },
+        "styles/emacs": {
+            "component": "styles/emacs"
+        },
+        "styles/friendly": {
+            "component": "styles/friendly"
+        },
+        "styles/fruity": {
+            "component": "styles/fruity"
+        },
+        "styles/github-dark": {
+            "component": "styles/github-dark"
+        },
+        "styles/github": {
+            "component": "styles/github"
+        },
+        "styles/gruvbox-light": {
+            "component": "styles/gruvbox-light"
+        },
+        "styles/gruvbox": {
+            "component": "styles/gruvbox"
+        },
+        "styles/hr-high-contrast": {
+            "component": "styles/hr-high-contrast"
+        },
+        "styles/hrdark": {
+            "component": "styles/hrdark"
+        },
+        "styles/igor": {
+            "component": "styles/igor"
+        },
+        "styles/lovelace": {
+            "component": "styles/lovelace"
+        },
+        "styles/manni": {
+            "component": "styles/manni"
+        },
+        "styles/modus-operandi": {
+            "component": "styles/modus-operandi"
+        },
+        "styles/modus-vivendi": {
+            "component": "styles/modus-vivendi"
+        },
+        "styles/monokai": {
+            "component": "styles/monokai"
+        },
+        "styles/monokailight": {
+            "component": "styles/monokailight"
+        },
+        "styles/murphy": {
+            "component": "styles/murphy"
+        },
+        "styles/native": {
+            "component": "styles/native"
+        },
+        "styles/nord": {
+            "component": "styles/nord"
+        },
+        "styles/onedark": {
+            "component": "styles/onedark"
+        },
+        "styles/onesenterprise": {
+            "component": "styles/onesenterprise"
+        },
+        "styles/paraiso-dark": {
+            "component": "styles/paraiso-dark"
+        },
+        "styles/paraiso-light": {
+            "component": "styles/paraiso-light"
+        },
+        "styles/pastie": {
+            "component": "styles/pastie"
+        },
+        "styles/perldoc": {
+            "component": "styles/perldoc"
+        },
+        "styles/pygments": {
+            "component": "styles/pygments"
+        },
+        "styles/rainbow-dash": {
+            "component": "styles/rainbow-dash"
+        },
+        "styles/rose-pine-dawn": {
+            "component": "styles/rose-pine-dawn"
+        },
+        "styles/rose-pine-moon": {
+            "component": "styles/rose-pine-moon"
+        },
+        "styles/rose-pine": {
+            "component": "styles/rose-pine"
+        },
+        "styles/rrt": {
+            "component": "styles/rrt"
+        },
+        "styles/solarized-dark": {
+            "component": "styles/solarized-dark"
+        },
+        "styles/solarized-dark256": {
+            "component": "styles/solarized-dark256"
+        },
+        "styles/solarized-light": {
+            "component": "styles/solarized-light"
+        },
+        "styles/swapoff": {
+            "component": "styles/swapoff"
+        },
+        "styles/tango": {
+            "component": "styles/tango"
+        },
+        "styles/trac": {
+            "component": "styles/trac"
+        },
+        "styles/vim": {
+            "component": "styles/vim"
+        },
+        "styles/vs": {
+            "component": "styles/vs"
+        },
+        "styles/vulcan": {
+            "component": "styles/vulcan"
+        },
+        "styles/witchhazel": {
+            "component": "styles/witchhazel"
+        },
+        "styles/xcode-dark": {
+            "component": "styles/xcode-dark"
+        },
+        "styles/xcode": {
+            "component": "styles/xcode"
+        }
+    }
+}
