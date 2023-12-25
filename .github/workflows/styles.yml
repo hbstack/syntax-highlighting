@@ -1,0 +1,33 @@
+name: Styles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  contributors:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: Update styles
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MAINTAINER_TOKEN }}
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      
+      - name: Update Styles
+        run: ./scripts/generate.sh
+
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: update styles"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" 
+          file_pattern: 'styles'
