@@ -16,6 +16,8 @@
     "packages": {
         ".": {
             "exclude-paths": [
+                "styles",
+                "*"
             ]
         },
         "styles/abap": {
