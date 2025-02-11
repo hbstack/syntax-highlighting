@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2](https://github.com/hbstack/syntax-highlighting/compare/v0.2.1...v0.2.2) (2025-02-11)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.10.1 ([4034547](https://github.com/hbstack/syntax-highlighting/commit/4034547ff2a145ac1b4993073439db0d24e69284))
+* **deps:** update dependency stylelint-scss to v6.11.0 ([2b75c67](https://github.com/hbstack/syntax-highlighting/commit/2b75c677b852c8eea04671f574a5cce8ec8a0660))
+
 ## [0.2.1](https://github.com/hbstack/syntax-highlighting/compare/v0.2.0...v0.2.1) (2024-12-30)
 
 
