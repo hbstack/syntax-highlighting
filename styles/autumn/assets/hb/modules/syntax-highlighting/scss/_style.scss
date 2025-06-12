@@ -1,3 +1,5 @@
+/* Generated using: hugo gen chromastyles --style=autumn */
+
 /* Background */ .bg { background-color:#fff; }
 /* PreWrapper */ .chroma { background-color:#fff; }
 /* Other */ .chroma .x {  }
@@ -19,25 +21,25 @@
 /* KeywordType */ .chroma .kt { color:#0aa }
 /* Name */ .chroma .n {  }
 /* NameAttribute */ .chroma .na { color:#1e90ff }
-/* NameBuiltin */ .chroma .nb { color:#0aa }
-/* NameBuiltinPseudo */ .chroma .bp {  }
 /* NameClass */ .chroma .nc { color:#0a0;text-decoration:underline }
 /* NameConstant */ .chroma .no { color:#a00 }
 /* NameDecorator */ .chroma .nd { color:#888 }
 /* NameEntity */ .chroma .ni { color:#800;font-weight:bold }
 /* NameException */ .chroma .ne {  }
-/* NameFunction */ .chroma .nf { color:#0a0 }
-/* NameFunctionMagic */ .chroma .fm {  }
 /* NameLabel */ .chroma .nl {  }
 /* NameNamespace */ .chroma .nn { color:#0aa;text-decoration:underline }
 /* NameOther */ .chroma .nx {  }
 /* NameProperty */ .chroma .py {  }
 /* NameTag */ .chroma .nt { color:#1e90ff;font-weight:bold }
+/* NameBuiltin */ .chroma .nb { color:#0aa }
+/* NameBuiltinPseudo */ .chroma .bp { color:#0aa }
 /* NameVariable */ .chroma .nv { color:#a00 }
-/* NameVariableClass */ .chroma .vc {  }
-/* NameVariableGlobal */ .chroma .vg {  }
-/* NameVariableInstance */ .chroma .vi {  }
-/* NameVariableMagic */ .chroma .vm {  }
+/* NameVariableClass */ .chroma .vc { color:#a00 }
+/* NameVariableGlobal */ .chroma .vg { color:#a00 }
+/* NameVariableInstance */ .chroma .vi { color:#a00 }
+/* NameVariableMagic */ .chroma .vm { color:#a00 }
+/* NameFunction */ .chroma .nf { color:#0a0 }
+/* NameFunctionMagic */ .chroma .fm { color:#0a0 }
 /* Literal */ .chroma .l {  }
 /* LiteralDate */ .chroma .ld {  }
 /* LiteralString */ .chroma .s { color:#a50 }

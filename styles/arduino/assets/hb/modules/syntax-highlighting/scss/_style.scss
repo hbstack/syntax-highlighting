@@ -1,3 +1,5 @@
+/* Generated using: hugo gen chromastyles --style=arduino */
+
 /* Background */ .bg { background-color:#fff; }
 /* PreWrapper */ .chroma { background-color:#fff; }
 /* Other */ .chroma .x {  }
@@ -19,25 +21,25 @@
 /* KeywordType */ .chroma .kt { color:#00979d }
 /* Name */ .chroma .n { color:#434f54 }
 /* NameAttribute */ .chroma .na { color:#434f54 }
-/* NameBuiltin */ .chroma .nb { color:#728e00 }
-/* NameBuiltinPseudo */ .chroma .bp { color:#434f54 }
 /* NameClass */ .chroma .nc { color:#434f54 }
 /* NameConstant */ .chroma .no { color:#434f54 }
 /* NameDecorator */ .chroma .nd { color:#434f54 }
 /* NameEntity */ .chroma .ni { color:#434f54 }
 /* NameException */ .chroma .ne { color:#434f54 }
-/* NameFunction */ .chroma .nf { color:#d35400 }
-/* NameFunctionMagic */ .chroma .fm { color:#434f54 }
 /* NameLabel */ .chroma .nl { color:#434f54 }
 /* NameNamespace */ .chroma .nn { color:#434f54 }
 /* NameOther */ .chroma .nx { color:#728e00 }
 /* NameProperty */ .chroma .py { color:#434f54 }
 /* NameTag */ .chroma .nt { color:#434f54 }
+/* NameBuiltin */ .chroma .nb { color:#728e00 }
+/* NameBuiltinPseudo */ .chroma .bp { color:#728e00 }
 /* NameVariable */ .chroma .nv { color:#434f54 }
 /* NameVariableClass */ .chroma .vc { color:#434f54 }
 /* NameVariableGlobal */ .chroma .vg { color:#434f54 }
 /* NameVariableInstance */ .chroma .vi { color:#434f54 }
 /* NameVariableMagic */ .chroma .vm { color:#434f54 }
+/* NameFunction */ .chroma .nf { color:#d35400 }
+/* NameFunctionMagic */ .chroma .fm { color:#d35400 }
 /* Literal */ .chroma .l {  }
 /* LiteralDate */ .chroma .ld {  }
 /* LiteralString */ .chroma .s { color:#7f8c8d }

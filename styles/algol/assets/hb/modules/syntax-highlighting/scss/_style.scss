@@ -1,3 +1,5 @@
+/* Generated using: hugo gen chromastyles --style=algol */
+
 /* Background */ .bg { background-color:#fff; }
 /* PreWrapper */ .chroma { background-color:#fff; }
 /* Other */ .chroma .x {  }
@@ -19,25 +21,25 @@
 /* KeywordType */ .chroma .kt { font-weight:bold;text-decoration:underline }
 /* Name */ .chroma .n {  }
 /* NameAttribute */ .chroma .na {  }
-/* NameBuiltin */ .chroma .nb { font-weight:bold;font-style:italic }
-/* NameBuiltinPseudo */ .chroma .bp { font-weight:bold;font-style:italic }
 /* NameClass */ .chroma .nc { color:#666;font-weight:bold;font-style:italic }
 /* NameConstant */ .chroma .no { color:#666;font-weight:bold;font-style:italic }
 /* NameDecorator */ .chroma .nd {  }
 /* NameEntity */ .chroma .ni {  }
 /* NameException */ .chroma .ne {  }
-/* NameFunction */ .chroma .nf { color:#666;font-weight:bold;font-style:italic }
-/* NameFunctionMagic */ .chroma .fm {  }
 /* NameLabel */ .chroma .nl {  }
 /* NameNamespace */ .chroma .nn { color:#666;font-weight:bold;font-style:italic }
 /* NameOther */ .chroma .nx {  }
 /* NameProperty */ .chroma .py {  }
 /* NameTag */ .chroma .nt {  }
+/* NameBuiltin */ .chroma .nb { font-weight:bold;font-style:italic }
+/* NameBuiltinPseudo */ .chroma .bp { font-weight:bold;font-style:italic }
 /* NameVariable */ .chroma .nv { color:#666;font-weight:bold;font-style:italic }
-/* NameVariableClass */ .chroma .vc {  }
-/* NameVariableGlobal */ .chroma .vg {  }
-/* NameVariableInstance */ .chroma .vi {  }
-/* NameVariableMagic */ .chroma .vm {  }
+/* NameVariableClass */ .chroma .vc { color:#666;font-weight:bold;font-style:italic }
+/* NameVariableGlobal */ .chroma .vg { color:#666;font-weight:bold;font-style:italic }
+/* NameVariableInstance */ .chroma .vi { color:#666;font-weight:bold;font-style:italic }
+/* NameVariableMagic */ .chroma .vm { color:#666;font-weight:bold;font-style:italic }
+/* NameFunction */ .chroma .nf { color:#666;font-weight:bold;font-style:italic }
+/* NameFunctionMagic */ .chroma .fm { color:#666;font-weight:bold;font-style:italic }
 /* Literal */ .chroma .l {  }
 /* LiteralDate */ .chroma .ld {  }
 /* LiteralString */ .chroma .s { color:#666;font-style:italic }
