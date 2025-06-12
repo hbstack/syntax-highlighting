@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hbstack/syntax-highlighting/compare/styles/modus-vivendi/v0.1.2...styles/modus-vivendi/v0.1.3) (2025-06-12)
+
+
+### Styles 🎨
+
+* update styles ([c5c8304](https://github.com/hbstack/syntax-highlighting/commit/c5c8304cc8ebf843ad08029ddf982868131e1adf))
+
 ## [0.1.2](https://github.com/hbstack/syntax-highlighting/compare/styles/modus-vivendi/v0.1.1...styles/modus-vivendi/v0.1.2) (2024-12-30)
 
 
