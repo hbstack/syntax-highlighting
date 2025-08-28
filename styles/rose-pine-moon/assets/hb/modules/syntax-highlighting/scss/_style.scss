@@ -2,9 +2,7 @@
 
 /* Background */ .bg { color:#e0def4;background-color:#232136; }
 /* PreWrapper */ .chroma { color:#e0def4;background-color:#232136; }
-/* Other */ .chroma .x {  }
 /* Error */ .chroma .err { color:#eb6f92 }
-/* CodeLine */ .chroma .cl {  }
 /* LineLink */ .chroma .lnlinks { outline:none;text-decoration:none;color:inherit }
 /* LineTableTD */ .chroma .lntd { vertical-align:top;padding:0;margin:0;border:0; }
 /* LineTable */ .chroma .lntable { border-spacing:0;padding:0;margin:0;border:0; }
@@ -28,7 +26,6 @@
 /* NameException */ .chroma .ne { color:#3e8fb0 }
 /* NameLabel */ .chroma .nl { color:#ea9a97 }
 /* NameNamespace */ .chroma .nn { color:#ea9a97 }
-/* NameOther */ .chroma .nx {  }
 /* NameProperty */ .chroma .py { color:#ea9a97 }
 /* NameTag */ .chroma .nt { color:#ea9a97 }
 /* NameBuiltin */ .chroma .nb { color:#ea9a97 }
@@ -73,16 +70,8 @@
 /* CommentSpecial */ .chroma .cs { color:#6e6a86 }
 /* CommentPreproc */ .chroma .cp { color:#6e6a86 }
 /* CommentPreprocFile */ .chroma .cpf { color:#6e6a86 }
-/* Generic */ .chroma .g {  }
 /* GenericDeleted */ .chroma .gd { color:#eb6f92 }
 /* GenericEmph */ .chroma .ge { font-style:italic }
-/* GenericError */ .chroma .gr {  }
-/* GenericHeading */ .chroma .gh {  }
 /* GenericInserted */ .chroma .gi { color:#9ccfd8 }
-/* GenericOutput */ .chroma .go {  }
-/* GenericPrompt */ .chroma .gp {  }
 /* GenericStrong */ .chroma .gs { font-weight:bold }
 /* GenericSubheading */ .chroma .gu { color:#c4a7e7 }
-/* GenericTraceback */ .chroma .gt {  }
-/* GenericUnderline */ .chroma .gl {  }
-/* TextWhitespace */ .chroma .w {  }
