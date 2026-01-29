@@ -1,7 +1,7 @@
 /* Generated using: hugo gen chromastyles --style=paraiso-light */
 
 /* Background */ .bg { color:#2f1e2e;background-color:#e7e9db; }
-/* PreWrapper */ .chroma { color:#2f1e2e;background-color:#e7e9db; }
+/* PreWrapper */ .chroma { color:#2f1e2e;background-color:#e7e9db;-webkit-text-size-adjust:none; }
 /* Error */ .chroma .err { color:#ef6155 }
 /* LineLink */ .chroma .lnlinks { outline:none;text-decoration:none;color:inherit }
 /* LineTableTD */ .chroma .lntd { vertical-align:top;padding:0;margin:0;border:0; }
