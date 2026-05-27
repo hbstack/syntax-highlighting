@@ -22,6 +22,7 @@
 /* NameConstant */ .chroma .no { color:#c5a3ff }
 /* NameDecorator */ .chroma .nd { color:#ceb1ff }
 /* NameException */ .chroma .ne { color:#ceb1ff }
+/* NameProperty */ .chroma .py { color:#f8f8f2 }
 /* NameTag */ .chroma .nt { color:#ffb8d1 }
 /* NameBuiltinPseudo */ .chroma .bp { color:#80cbc4 }
 /* NameFunction */ .chroma .nf { color:#ceb1ff }
@@ -51,6 +52,8 @@
 /* LiteralNumberOct */ .chroma .mo { color:#c5a3ff }
 /* Operator */ .chroma .o { color:#ffb8d1 }
 /* OperatorWord */ .chroma .ow { color:#ffb8d1 }
+/* OperatorReserved */ .chroma .or { color:#ffb8d1 }
+/* Punctuation */ .chroma .p { color:#f8f8f2 }
 /* Comment */ .chroma .c { color:#b0bec5 }
 /* CommentHashbang */ .chroma .ch { color:#b0bec5 }
 /* CommentMultiline */ .chroma .cm { color:#b0bec5 }

@@ -37,6 +37,7 @@
 /* LiteralString */ .chroma .s { color:#48b685 }
 /* LiteralStringAffix */ .chroma .sa { color:#48b685 }
 /* LiteralStringBacktick */ .chroma .sb { color:#48b685 }
+/* LiteralStringChar */ .chroma .sc { color:#e7e9db }
 /* LiteralStringDelimiter */ .chroma .dl { color:#48b685 }
 /* LiteralStringDoc */ .chroma .sd { color:#776e71 }
 /* LiteralStringDouble */ .chroma .s2 { color:#48b685 }
@@ -56,6 +57,8 @@
 /* LiteralNumberOct */ .chroma .mo { color:#f99b15 }
 /* Operator */ .chroma .o { color:#5bc4bf }
 /* OperatorWord */ .chroma .ow { color:#5bc4bf }
+/* OperatorReserved */ .chroma .or { color:#5bc4bf }
+/* Punctuation */ .chroma .p { color:#e7e9db }
 /* Comment */ .chroma .c { color:#776e71 }
 /* CommentHashbang */ .chroma .ch { color:#776e71 }
 /* CommentMultiline */ .chroma .cm { color:#776e71 }
