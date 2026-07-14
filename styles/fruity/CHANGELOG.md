@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/hbstack/syntax-highlighting/compare/styles/fruity/v0.1.2...styles/fruity/v0.1.3) (2025-10-20)
+
+
+### Styles 🎨
+
+* update styles ([00bc92d](https://github.com/hbstack/syntax-highlighting/commit/00bc92dfe53397d73c9c0c7cff07bfe47b03389e))
+* update styles ([c5c8304](https://github.com/hbstack/syntax-highlighting/commit/c5c8304cc8ebf843ad08029ddf982868131e1adf))
+
 ## [0.1.2](https://github.com/hbstack/syntax-highlighting/compare/styles/fruity/v0.1.1...styles/fruity/v0.1.2) (2024-12-30)
 
 
